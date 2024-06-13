@@ -33,4 +33,3 @@
 </div>
 <br/><br/>
 
-![Snake animation](https://raw.githubusercontent.com/pradeep2209/pradeep2209/output/github-contribution-grid-snake-dark.svg)
